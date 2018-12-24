@@ -1,0 +1,8 @@
+body {
+    margin: 0;
+    padding: 0 15px 80px;
+    background-image: linear-gradient(to right, #d7d2cc 0%, #304352 100%);
+    background-size: 100% 2000px;
+  
+    font-family: 'Helvetica Nue', sans-serif;
+  }
