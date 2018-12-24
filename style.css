@@ -1,8 +1,17 @@
 body {
     margin: 0;
     padding: 0 15px 80px;
-    background-image: linear-gradient(to right, #d7d2cc 0%, #304352 100%);
-    background-size: 100% 2000px;
-  
+    background-image: "images-news-750bd44c-e5a7-406a-b7b0-d8a382dd5a2a.png";
+    background-repeat:no-repeat;
+    background-position:center 80px;
     font-family: 'Helvetica Nue', sans-serif;
-  }
+    }
+    
+  
+    #footer {
+        background: #665;
+        color: #fff;
+        font-size: 70%;
+        padding: 5px; clear : both;
+        }
+    
